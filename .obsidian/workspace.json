@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4aa251540f012178",
+        "id": "9f4be3e0e95bec1f",
         "type": "tabs",
         "children": [
           {
-            "id": "7256e5d9baf6c19d",
+            "id": "16f3cc399e03cc91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -155,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,6 +197,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f38daa7790282ea",
-  "lastOpenFiles": []
+  "active": "16f3cc399e03cc91",
+  "lastOpenFiles": [
+    "Character Bonds & Dynamics.md"
+  ]
 }
