@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Power Codex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,6 +199,8 @@
   },
   "active": "16f3cc399e03cc91",
   "lastOpenFiles": [
+    "Power Codex.md",
+    "README.md",
     "Character Bonds & Dynamics.md"
   ]
 }
